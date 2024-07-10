@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/supriyajathar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1044-find-common-characters](https://github.com/supriyajathar/Leetcode/tree/master/1044-find-common-characters) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/supriyajathar/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/supriyajathar/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/supriyajathar/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/supriyajathar/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/supriyajathar/Leetcode/tree/master/0242-valid-anagram) |
 | [1044-find-common-characters](https://github.com/supriyajathar/Leetcode/tree/master/1044-find-common-characters) |
+| [1720-crawler-log-folder](https://github.com/supriyajathar/Leetcode/tree/master/1720-crawler-log-folder) |
 ## Greedy
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/supriyajathar/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/supriyajathar/Leetcode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
