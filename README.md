@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/supriyajathar/Leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/supriyajathar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/supriyajathar/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0726-number-of-atoms](https://github.com/supriyajathar/Leetcode/tree/master/0726-number-of-atoms) |
 | [1044-find-common-characters](https://github.com/supriyajathar/Leetcode/tree/master/1044-find-common-characters) |
 | [1207-delete-nodes-and-return-forest](https://github.com/supriyajathar/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/supriyajathar/Leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/supriyajathar/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0726-number-of-atoms](https://github.com/supriyajathar/Leetcode/tree/master/0726-number-of-atoms) |
 | [1044-find-common-characters](https://github.com/supriyajathar/Leetcode/tree/master/1044-find-common-characters) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/supriyajathar/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/supriyajathar/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/supriyajathar/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/supriyajathar/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/supriyajathar/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
