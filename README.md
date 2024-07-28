@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/supriyajathar/Leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/supriyajathar/Leetcode/tree/master/0189-rotate-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/supriyajathar/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/supriyajathar/Leetcode/tree/master/2645-pass-the-pillow) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/supriyajathar/Leetcode/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/supriyajathar/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/supriyajathar/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/supriyajathar/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/supriyajathar/Leetcode/tree/master/0002-add-two-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/supriyajathar/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
