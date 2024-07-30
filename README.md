@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/supriyajathar/Leetcode/tree/master/1044-find-common-characters) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/supriyajathar/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/supriyajathar/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/supriyajathar/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/supriyajathar/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2502-sort-the-people](https://github.com/supriyajathar/Leetcode/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/supriyajathar/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/supriyajathar/Leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/supriyajathar/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/supriyajathar/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/supriyajathar/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/supriyajathar/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/supriyajathar/Leetcode/tree/master/2846-robot-collisions) |
 ## Tree
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/supriyajathar/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/supriyajathar/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/supriyajathar/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Shortest Path
 |  |
 | ------- |
