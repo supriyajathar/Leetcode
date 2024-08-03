@@ -10,5 +10,24 @@ public:
             ++cnt2[v];
         }
         return cnt1 == cnt2;
+        // unordered_map<int,bool>mp;
+        // for(int i=0;i<target.size();i++)
+        // {
+        //     mp[target[i]]=true;
+        // }
+        // for(int j=0;j<arr.size();j++)
+        // {
+        //     if(mp[arr[j]]==true)
+        //     {
+        //         mp[arr[j]]=false;
+        //         continue;
+        //     }
+        //     else
+        //     {
+        //         return false;
+        //     }
+        // }
+        // return true;
+       
     }
 };
