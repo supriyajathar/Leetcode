@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/supriyajathar/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/supriyajathar/Leetcode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/supriyajathar/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/supriyajathar/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/supriyajathar/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/supriyajathar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/supriyajathar/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/supriyajathar/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/supriyajathar/Leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/supriyajathar/Leetcode/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/supriyajathar/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/supriyajathar/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
 | ------- |
