@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/supriyajathar/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/supriyajathar/Leetcode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/supriyajathar/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/supriyajathar/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/supriyajathar/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/supriyajathar/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/supriyajathar/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/supriyajathar/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/supriyajathar/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Graph
 |  |
 | ------- |
