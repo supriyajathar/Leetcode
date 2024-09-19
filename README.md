@@ -155,18 +155,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/supriyajathar/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/supriyajathar/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/supriyajathar/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/supriyajathar/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/supriyajathar/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/supriyajathar/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/supriyajathar/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/supriyajathar/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/supriyajathar/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/supriyajathar/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/supriyajathar/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Matrix
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/supriyajathar/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/supriyajathar/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
